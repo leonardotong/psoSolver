@@ -1,6 +1,6 @@
 #pragma once
-# ifndef _TOOLS_H_
-# define _TOOLS_H_
+# ifndef _EXTERNAL_TOOLS_H_
+# define _EXTERNAL_TOOLS_H_
 /*
 #ifdef ToolsDLL_EXPORTS  
 #define ToolsAPI __declspec(dllexport)  

@@ -1,5 +1,5 @@
-#define ToolsDLL
-# include "Tools.h"
+//#define ToolsDLL
+# include "externalTools.h"
 
 /*
 /* By Weiyang Tong
